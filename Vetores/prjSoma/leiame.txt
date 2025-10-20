@@ -1,0 +1,1 @@
+Exercício de apresentar o vetor C, sendo ele a soma de A e B digitados pelo usuário.
