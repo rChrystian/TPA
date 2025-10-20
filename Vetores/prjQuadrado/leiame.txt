@@ -1,0 +1,1 @@
+Exercício de apresentar vetor B, sendo B quadrado de A.
